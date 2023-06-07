@@ -1,0 +1,14 @@
+.corpo{
+
+    background-color: rgb(127, 235, 235);
+
+
+}
+
+.city  {
+    background-color: rgb(216, 202, 202);
+    color: rgb(0, 0, 0);
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
